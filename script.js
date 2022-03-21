@@ -8,6 +8,7 @@ const back = document.getElementById('back')
 
 
 
+
 submit.addEventListener('click', (e) => {
     e.preventDefault()
     checkinputs()
